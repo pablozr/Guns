@@ -1,0 +1,3 @@
+name: Guns
+version: '${project.version}'
+main: com.esgoto.CSDirector
